@@ -1,4 +1,4 @@
-# Credit Risk Modeling Readme
+# Credit Risk Modeling
 
 ## Overview
 
